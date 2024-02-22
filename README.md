@@ -46,7 +46,8 @@ Determine the Pareto front for a multi-objective optimization problem using the 
 Minimize 
 
 $$
-\min_{x} = \begin{cases}f_1(x)=1-\exp\left(    -\sum_{i=1}^{n}        \left(            x_i - \sqrt{\frac{1}{n}}        \right)^2    \right) \\ f_2(x)=1-\exp\left(    -\sum_{i=1}^{n}        \left(            x_i + \sqrt{\frac{1}{n}}        \right)^2    \right)
+\min_{x} = \begin{cases}f_1(x)=1-\exp\left(    -\sum_{i=1}^{n}        \left(            x_i - \sqrt{\frac{1}{n}}        \right)^2    \right) \\ 
+f_2(x)=1-\exp\left(    -\sum_{i=1}^{n}        \left(            x_i + \sqrt{\frac{1}{n}}        \right)^2    \right)
 \end{cases}\quad-4 \leq x_i \leq 4, \quad 1 \leq i \leq n
 $$
 
