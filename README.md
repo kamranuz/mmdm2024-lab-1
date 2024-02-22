@@ -51,5 +51,5 @@ f_2(x)=1-\exp\left(    -\sum_{i=1}^{n}        \left(            x_i + \sqrt{\fra
 \end{cases}\quad-4 \leq x_i \leq 4, \quad 1 \leq i \leq n
 $$
 
-## Task 2:
+## Task 3:
 TBD
