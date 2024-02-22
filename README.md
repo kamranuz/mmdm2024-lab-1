@@ -18,24 +18,14 @@ Utilize genetic algorithm to find the global extremum of given functions for n-d
 (a) Minimize
 
 $$
-\max_{x,y} f(x, y)
-=
-3(1-x)^2
-\exp\left(-x^2-(y+1)^2\right)
--
-10\left(\frac{x}{5} - x^3 - y^5\right)
-\exp\left(-x^2-y^2\right)
--
-\frac{1}{3} \exp\left(-(x+1)^2-y^2\right)
+\max_{x,y} f(x, y)=3(1-x)^2\exp\left(-x^2-(y+1)^2\right)-10\left(\frac{x}{5} - x^3 - y^5\right)
+\exp\left(-x^2-y^2\right)-\frac{1}{3} \exp\left(-(x+1)^2-y^2\right)
 $$
 
 (b) Minimize
 
 $$
-\min_{x,y} f(x, y)
-=
--0.0001
-\left(
+\min_{x,y} f(x, y)=-0.0001\left(
     \left\lvert
         \sin(x)
         \sin(y)
