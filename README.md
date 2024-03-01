@@ -52,4 +52,6 @@ f_2(x)=1-\exp\left(    -\sum_{i=1}^{n}        \left(            x_i + \sqrt{\fra
 $$
 
 ## Task 3:
-TBD
+Due to the upcoming holiday (8th of March), flower market decided to optimize its delivery (= minimize delivery costs). At the begging of the day couriers pick up flowers from the flower market and deliver them to clients. Each client needs only certain number of flowers and each courier can carry only certain number of flowers. Couriers are paid for the distance travelled. All required data is in the attached file.
+
+Make sure to write your mathematical model for the given problem (yes, using formu- las). Then code it in python and solve.
