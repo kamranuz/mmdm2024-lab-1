@@ -5,7 +5,7 @@
 - Small group work: 1-3 students
 - Basic solution of each task = 8 points; Creativity and visualization can earn 9 or 10 points
 - Write original code for algorithms
-- Deadline: TBD
+- Deadline: 01.04.2024
 ## Team:
 - [Mike Shklyar](https://t.me/MC_Mikel)
 - [Вацлав Соколовский](https://t.me/RinokuS)
